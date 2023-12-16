@@ -73,9 +73,9 @@ android {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
 
-    namespace "com.reactnativeboilerplate"
+    namespace "com.quotation"
     defaultConfig {
-        applicationId "com.reactnativeboilerplate"
+        applicationId "com.quotation"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
