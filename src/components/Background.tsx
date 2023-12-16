@@ -27,7 +27,6 @@ const styles = StyleSheet.create({
     ...baseStyle.centralize,
     padding: 20,
     width: '100%',
-    maxWidth: 340,
   },
 })
 
